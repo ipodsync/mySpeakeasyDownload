@@ -1,0 +1,2 @@
+# mySpeakeasyFirmwareDownload
+mySpeakeasy Firmware Download binaries
